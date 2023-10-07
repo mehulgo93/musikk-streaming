@@ -35,7 +35,6 @@
     "stripe": "^12.7.0",
     "tailwind-merge": "^1.14.0",
     "tailwindcss": "3.3.2",
-    "typescript": "5.0.4",
     "uniqid": "^5.4.0",
     "use-sound": "^4.0.1",
     "zustand": "^4.3.8"
@@ -43,6 +42,7 @@
   "devDependencies": {
     "@types/uniqid": "^5.3.2",
     "encoding": "^0.1.13",
-    "supabase": "^1.64.2"
+    "supabase": "^1.64.2",
+    "typescript": "^5.2.2"
   }
 }
