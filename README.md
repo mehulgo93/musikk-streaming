@@ -1,35 +1,72 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+<p align="center">
+    <a href=""><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /></a>
+    <a href=""><img src="https://badgen.net/github/commits/mehulgo93/musikk-streaming /></a>
+    <br>
+    <a href=""><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
+    <a href=""><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+    <a href=""><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /></a>
+</p>
 
-First, run the development server:
+<h1 align="center"><b>🎵 MUSIKK 🎶</b></h1>
+<h4 align="center"> A dynamic music streaming application allowing users to listen to their favorite songs, view artwork, and curate personal playlists.
+</h4>
+
+<p align="center">
+    <img src="" alt="demo-video" width=80% height=60%/>
+</p>
+
+## Key Features
+
+- **Music Streaming:** Stream your favorite music seamlessly.
+- **Artwork Display:** View engaging artwork for each song.
+- **Personal Playlists:** Create and manage your liked songs playlist.
+- **Music Player:** An integrated player to control your music experience.
+- **Song Liking:** Ability to like songs and save them to your playlist.
+
+## How It Works
+
+- **Browse and Stream:** Search and stream music of your choice.
+- **Artwork Exploration:** Discover and view song-related artwork.
+- **Playlist Management:** Add and organize songs in your liked playlist.
+- **Player Interaction:** Use the music player to play, pause, and navigate through songs.
+
+## Installation and Setup 
+
+1. Clone this repository to your local machine:
+
+```bash
+git clone git@github.com/mehulgo93/musikk-streaming
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd yourprojectfolder
+```
+
+3. Install the required dependencies:
+
+```bash
+npm install 
+```
+
+4. Start the server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Future Iterations
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Music Recommendations:** Introduce personalized song recommendations based on user preferences.
+- **Expanded Music Library:** Incorporate an API to access a broader variety of songs.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Acknowledgments
 
-## Learn More
+Mention any inspirations, frameworks, or individuals that significantly contributed to your project.
 
-To learn more about Next.js, take a look at the following resources:
+## License
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# musikk-streaming
