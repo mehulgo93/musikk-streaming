@@ -13,7 +13,8 @@
 </h4>
 
 <p align="center">
-    <img src="musikk-streaming-demo-compressed_LSPn0A0u.mp4" alt="demo-video" width=80% height=60%/>
+    <img src="musikk-streaming
+/musikk-streaming-demo-compressed_LSPn0A0u.mp4" alt="demo-video" width=80% height=60%/>
 </p>
 
 ## Key Features
