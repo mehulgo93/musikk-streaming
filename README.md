@@ -13,7 +13,7 @@
 </h4>
 
 <p align="center">
-    <img src="https://github.com/mehulgo93/musikk-streaming/assets/111099204/decba973-8f68-407d-8f2a-70861fb31cdb" alt="demo-video" width=80% height=60%/>
+    <img src="https://private-user-images.githubusercontent.com/111099204/285682751-318ea2ab-630c-484a-8b65-6fc8f6303344.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEwMzQzNDIsIm5iZiI6MTcwMTAzNDA0MiwicGF0aCI6Ii8xMTEwOTkyMDQvMjg1NjgyNzUxLTMxOGVhMmFiLTYzMGMtNDg0YS04YjY1LTZmYzhmNjMwMzM0NC5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMTI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTEyNlQyMTI3MjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNDE3MDJlOTNjOTAzMTk5MTc2YzQ1ZmYwMTJiOWQ3MWVlOWU4OWI4OGU4NzJhNGNiMGRiNWRhNmU2ODc2MjI4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.fXyPTUmW7Li0etTb3G1NsjHLstt5-o7j7OSs0P9IOEE" alt="demo-video" width=80% height=60%/>
 </p>
 
 ## Key Features
