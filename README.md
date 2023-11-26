@@ -13,7 +13,7 @@
 </h4>
 
 <p align="center">
-    <img src="" alt="demo-video" width=80% height=60%/>
+    <img src="https://github.com/mehulgo93/musikk-streaming/assets/111099204/decba973-8f68-407d-8f2a-70861fb31cdb" alt="demo-video" width=80% height=60%/>
 </p>
 
 ## Key Features
